@@ -313,10 +313,10 @@ Version markup
 
    Second paragraph of version-changed.
 
-.. version-added:: 0.6
+.. versionadded:: 0.6
    Deprecated alias for version-added.
 
-.. version-changed:: 0.6
+.. versionchanged:: 0.6
    Deprecated alias for version-changed.
 
 .. deprecated:: 0.6
